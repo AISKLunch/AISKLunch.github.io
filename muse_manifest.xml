@@ -1,9 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494332327149">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494333015640">
   <folder name="css">
     <file name="site_global.css" crc="45666046"/>
     <file name="index.css" crc="4258571514" ref="index"/>
-    <file name="home.css" crc="62053498" ref="home"/>
-    <file name="nomq_home.css" crc="497844396" ref="home"/>
+    <file name="home.css" crc="125223390" ref="home"/>
     <file name="week-menu.css" crc="3866118388" ref="week-menu"/>
   </folder>
   <folder name="scripts">
@@ -14,7 +13,6 @@
     <file name="jquery.watch.js" crc="3844535323" ref="index:home:week-menu"/>
     <file name="require.js" crc="4234670167" ref="index:home:week-menu"/>
     <file name="jquery.scrolleffects.js" crc="146279342" ref="home"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="home"/>
   </folder>
   <folder name="images">
     <file name="web 1920 – 1.jpg" crc="426960172" seo="true" ref="index:home">
@@ -38,49 +36,11 @@
     <file name="u878.png" crc="267594355" ref="home"/>
     <file name="u878-r.png" crc="267594355" ref="home"/>
     <file name="u878-m.png" crc="267594355" ref="home"/>
-    <file name="u248.png" crc="4128447486" ref="home"/>
-    <file name="u248-r.png" crc="3941065271" ref="home"/>
-    <file name="u248-m.png" crc="3941065271" ref="home"/>
-    <file name="web 1920 – 1960x540.jpg" crc="263165468" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="u4102.png" crc="4151998353" ref="home"/>
-    <file name="u410-r2.png" crc="4151998353" ref="home"/>
-    <file name="u410-m2.png" crc="4151998353" ref="home"/>
-    <file name="u8782.png" crc="267594355" ref="home"/>
-    <file name="u878-r2.png" crc="267594355" ref="home"/>
-    <file name="u878-m2.png" crc="267594355" ref="home"/>
-    <file name="u2582.png" crc="248284132" ref="home"/>
-    <file name="u258-r2.png" crc="248284132" ref="home"/>
-    <file name="u258-m2.png" crc="248284132" ref="home"/>
-    <file name="u377-42.png" crc="422424090" ref="home"/>
-    <file name="u3562.png" crc="4227652406" ref="home"/>
-    <file name="u356-r2.png" crc="4227652406" ref="home"/>
-    <file name="u356-m2.png" crc="4227652406" ref="home"/>
-    <file name="u1030-62.png" crc="478212782" ref="home"/>
-    <file name="u2482.png" crc="4124899495" ref="home"/>
-    <file name="u248-r2.png" crc="4083968176" ref="home"/>
-    <file name="u248-m2.png" crc="4083968176" ref="home"/>
-    <file name="u4103.png" crc="4151998353" ref="home"/>
-    <file name="u410-r3.png" crc="4151998353" ref="home"/>
-    <file name="u410-m3.png" crc="4151998353" ref="home"/>
-    <file name="u2483.png" crc="4124899495" ref="home"/>
-    <file name="u248-r3.png" crc="4083968176" ref="home"/>
-    <file name="u248-m3.png" crc="4083968176" ref="home"/>
-    <file name="u8783.png" crc="267594355" ref="home"/>
-    <file name="u878-r3.png" crc="267594355" ref="home"/>
-    <file name="u878-m3.png" crc="267594355" ref="home"/>
-    <file name="u2583.png" crc="248284132" ref="home"/>
-    <file name="u258-r3.png" crc="248284132" ref="home"/>
-    <file name="u258-m3.png" crc="248284132" ref="home"/>
-    <file name="u377-43.png" crc="422424090" ref="home"/>
-    <file name="u3563.png" crc="4227652406" ref="home"/>
-    <file name="u356-r3.png" crc="4227652406" ref="home"/>
-    <file name="u356-m3.png" crc="4227652406" ref="home"/>
-    <file name="u1030-63.png" crc="478212782" ref="home"/>
+    <file name="u248.png" crc="3849048391" ref="home"/>
+    <file name="u248-r.png" crc="452295863" ref="home"/>
+    <file name="u248-m.png" crc="452295863" ref="home"/>
   </folder>
   <file name="index.html" crc="4097225826" seo="true" mt="1494017957672" redirect="true"/>
-  <file name="home.html" crc="145151603" seo="true" mt="1494332294390" redirect="true"/>
+  <file name="home.html" crc="4021107177" seo="true" mt="1494332986076" redirect="true"/>
   <file name="week-menu.html" crc="4154585545" seo="true" mt="1494024568283" redirect="true"/>
 </manifest>
