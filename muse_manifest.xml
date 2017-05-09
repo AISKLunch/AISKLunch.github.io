@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494333015640">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494333103357">
   <folder name="css">
     <file name="site_global.css" crc="45666046"/>
     <file name="index.css" crc="4258571514" ref="index"/>
@@ -40,7 +40,7 @@
     <file name="u248-r.png" crc="452295863" ref="home"/>
     <file name="u248-m.png" crc="452295863" ref="home"/>
   </folder>
-  <file name="index.html" crc="4097225826" seo="true" mt="1494017957672" redirect="true"/>
+  <file name="index.html" crc="291961205" seo="true" mt="1494333093452" redirect="true"/>
   <file name="home.html" crc="4021107177" seo="true" mt="1494332986076" redirect="true"/>
   <file name="week-menu.html" crc="4154585545" seo="true" mt="1494024568283" redirect="true"/>
 </manifest>
