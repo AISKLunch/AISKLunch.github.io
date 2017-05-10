@@ -1,7 +1,7 @@
 .version.pre_order__tuesday_ /* version checker */
 {
-	color: #0000FD;
-	background-color: #D5338F;
+	color: #00000D;
+	background-color: #9C89E9;
 }
 
 #page
@@ -29,21 +29,6 @@
 	background-color: transparent;
 }
 
-#u3372
-{
-	z-index: 6;
-	width: 40px;
-	min-height: 40px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	margin-bottom: -117px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1155px;
-	left: -813px;
-}
-
 #untitled
 {
 	position: relative;
@@ -55,7 +40,7 @@
 
 #u3373
 {
-	z-index: 7;
+	z-index: 6;
 	width: 157px;
 	min-height: 132px;
 	border-width: 0px;
@@ -117,7 +102,7 @@
 
 #u3369
 {
-	z-index: 13;
+	z-index: 12;
 	min-height: 968px;
 	border-width: 0px;
 	border-color: transparent;
@@ -131,7 +116,7 @@
 
 #buttonu3376
 {
-	z-index: 8;
+	z-index: 7;
 	width: 230px;
 	border-style: solid;
 	border-width: 1px;
@@ -170,7 +155,7 @@
 
 #u3378
 {
-	z-index: 12;
+	z-index: 11;
 	width: 50px;
 	min-height: 50px;
 	border-width: 0px;
@@ -186,7 +171,7 @@
 
 #u3377
 {
-	z-index: 10;
+	z-index: 9;
 	height: 17px;
 	width: 157px;
 	vertical-align: top;

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494450858405">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494452181301">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="3879196808" ref="tablet>index"/>
@@ -16,13 +16,13 @@
     <file name="index.css" crc="3797072848" ref="index"/>
     <file name="home.css" crc="3991796035" ref="home"/>
     <file name="week-menu.css" crc="281087924" ref="week-menu"/>
-    <file name="pre-order--tuesday-.css" crc="4258608015" ref="pre-order--tuesday-"/>
+    <file name="pre-order--tuesday-.css" crc="228362729" ref="pre-order--tuesday-"/>
     <file name="page-offline.css" crc="4168859115" ref="page-offline"/>
-    <file name="pre-order--monday-.css" crc="3830319495" ref="pre-order--monday-"/>
-    <file name="pre-order--friday-.css" crc="3779386193" ref="pre-order--friday-"/>
+    <file name="pre-order--monday-.css" crc="3774763457" ref="pre-order--monday-"/>
+    <file name="pre-order--friday-.css" crc="3826922879" ref="pre-order--friday-"/>
     <file name="learn-more.css" crc="4036848218" ref="learn-more"/>
-    <file name="pre-order--wednesday-.css" crc="29469276" ref="pre-order--wednesday-"/>
-    <file name="pre-order--thursday-.css" crc="356528126" ref="pre-order--thursday-"/>
+    <file name="pre-order--wednesday-.css" crc="3763217559" ref="pre-order--wednesday-"/>
+    <file name="pre-order--thursday-.css" crc="3988811665" ref="pre-order--thursday-"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:week-menu:phone>index:tablet>index:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:learn-more:page-offline"/>
@@ -38,13 +38,13 @@
   </folder>
   <folder name="images">
     <file name="web 1920 – 1.jpg" crc="426960172" seo="true" ref="index:home:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline">
-      <caption webpage="index" alt=""/>
-      <caption webpage="pre-order--thursday-" alt=""/>
-      <caption webpage="pre-order--friday-" alt=""/>
-      <caption webpage="pre-order--monday-" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="pre-order--tuesday-" alt=""/>
       <caption webpage="pre-order--wednesday-" alt=""/>
+      <caption webpage="pre-order--friday-" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pre-order--tuesday-" alt=""/>
+      <caption webpage="pre-order--thursday-" alt=""/>
+      <caption webpage="pre-order--monday-" alt=""/>
       <caption webpage="page-offline" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="home:index:week-menu:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline"/>
@@ -126,11 +126,11 @@
   <file name="index.html" crc="4209105123" seo="true" mt="1494446749710" redirect="true"/>
   <file name="home.html" crc="443383418" seo="true" mt="1494450649947" redirect="true"/>
   <file name="week-menu.html" crc="116249982" seo="true" mt="1494450672510" redirect="true"/>
-  <file name="pre-order--thursday-.html" crc="41076072" seo="true" mt="1494446749710" redirect="true"/>
-  <file name="pre-order--friday-.html" crc="3780654117" seo="true" mt="1494449379950" redirect="true"/>
-  <file name="pre-order--wednesday-.html" crc="342616799" seo="true" mt="1494446749710" redirect="true"/>
-  <file name="pre-order--tuesday-.html" crc="65005382" seo="true" mt="1494446749710" redirect="true"/>
-  <file name="pre-order--monday-.html" crc="3835317490" seo="true" mt="1494446749710" redirect="true"/>
+  <file name="pre-order--thursday-.html" crc="3985052605" seo="true" mt="1494452084958" redirect="true"/>
+  <file name="pre-order--friday-.html" crc="353646175" seo="true" mt="1494452103752" redirect="true"/>
+  <file name="pre-order--wednesday-.html" crc="360181999" seo="true" mt="1494452128333" redirect="true"/>
+  <file name="pre-order--tuesday-.html" crc="4089827582" seo="true" mt="1494452144225" redirect="true"/>
+  <file name="pre-order--monday-.html" crc="420513644" seo="true" mt="1494452161012" redirect="true"/>
   <file name="learn-more.html" crc="4108736948" seo="true" mt="1494446749710" redirect="false"/>
   <file name="page-offline.html" crc="3897756301" seo="true" mt="1494448915640" redirect="true"/>
 </manifest>
