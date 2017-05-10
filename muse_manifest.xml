@@ -1,18 +1,40 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494333103357">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494393387679">
+  <folder name="assets">
+    <file name="0c44dacf1b038014a6f941131c5e8aa2.gif" crc="4244091777" seo="true" mt="1494381476000"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4021538510" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4235252552" seo="true" mt="1494366067835" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3826302230" seo="true" mt="1494366068020" redirect="false"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="45666046"/>
-    <file name="index.css" crc="4258571514" ref="index"/>
-    <file name="home.css" crc="125223390" ref="home"/>
-    <file name="week-menu.css" crc="3866118388" ref="week-menu"/>
+    <file name="site_global.css" crc="4080871788"/>
+    <file name="index.css" crc="4231639781" ref="index"/>
+    <file name="home.css" crc="4196953487" ref="home"/>
+    <file name="week-menu.css" crc="3870093385" ref="week-menu"/>
+    <file name="nomq_index.css" crc="109553314" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:week-menu"/>
-    <file name="museutils.js" crc="4232573551" ref="index:home:week-menu"/>
-    <file name="whatinput.js" crc="86476730" ref="index:home:week-menu"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:home:week-menu"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:home:week-menu"/>
-    <file name="require.js" crc="4234670167" ref="index:home:week-menu"/>
-    <file name="jquery.scrolleffects.js" crc="146279342" ref="home"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:week-menu:phone>index:tablet>index"/>
+    <file name="museutils.js" crc="4232573551" ref="index:home:week-menu:phone>index:tablet>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home:week-menu:phone>index:tablet>index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:home:week-menu:phone>index:tablet>index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:home:week-menu:phone>index:tablet>index"/>
+    <file name="require.js" crc="4234670167" ref="index:home:week-menu:phone>index:tablet>index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="home"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="home"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="home"/>
+    <file name="touchswipe.js" crc="3912873526" ref="home"/>
   </folder>
   <folder name="images">
     <file name="web 1920 – 1.jpg" crc="426960172" seo="true" ref="index:home">
@@ -21,7 +43,7 @@
     </file>
     <file name="u481-4.png" crc="375784066" ref="index"/>
     <file name="u537-4.png" crc="4029128141" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="home:index:week-menu"/>
     <file name="u410.png" crc="4151998353" ref="home"/>
     <file name="u410-r.png" crc="4151998353" ref="home"/>
     <file name="u410-m.png" crc="4151998353" ref="home"/>
@@ -33,14 +55,58 @@
     <file name="u356-r.png" crc="4227652406" ref="home"/>
     <file name="u356-m.png" crc="4227652406" ref="home"/>
     <file name="u1030-6.png" crc="3959343753" ref="home"/>
-    <file name="u878.png" crc="267594355" ref="home"/>
-    <file name="u878-r.png" crc="267594355" ref="home"/>
-    <file name="u878-m.png" crc="267594355" ref="home"/>
-    <file name="u248.png" crc="3849048391" ref="home"/>
-    <file name="u248-r.png" crc="452295863" ref="home"/>
-    <file name="u248-m.png" crc="452295863" ref="home"/>
+    <file name="u1849.png" crc="85167393" ref="index"/>
+    <file name="u1849-r.png" crc="3994247614" ref="index"/>
+    <file name="web 1920 – 1960x540.jpg" crc="263165468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1667-4.png" crc="3975035421" ref="index"/>
+    <file name="u1668-4.png" crc="444664655" ref="index"/>
+    <file name="u18492.png" crc="3849996836" ref="index"/>
+    <file name="u1849-r2.png" crc="4128062738" ref="index"/>
+    <file name="u1902.png" crc="3947164639" ref="home"/>
+    <file name="u1902-r.png" crc="4077210968" ref="home"/>
+    <file name="preorder-crop-u1980.jpg" crc="3873215671" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
+    <file name="u1933.png" crc="4158260876" ref="week-menu"/>
+    <file name="u1933-r.png" crc="4263348052" ref="week-menu"/>
+    <file name="u1918.png" crc="3914741470" ref="week-menu"/>
+    <file name="u1918-r.png" crc="86347465" ref="week-menu"/>
+    <file name="preorder-crop-u2024.jpg" crc="3873215671" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
+    <file name="u2029.png" crc="409461217" ref="week-menu"/>
+    <file name="u2029-r.png" crc="493324316" ref="week-menu"/>
+    <file name="u2030.png" crc="520831892" ref="week-menu"/>
+    <file name="u2030-r.png" crc="3858061088" ref="week-menu"/>
+    <file name="preorder-crop-u2095.jpg" crc="3873215671" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
+    <file name="u2100.png" crc="483101008" ref="week-menu"/>
+    <file name="u2100-r.png" crc="3925952285" ref="week-menu"/>
+    <file name="u2099.png" crc="444078732" ref="week-menu"/>
+    <file name="u2099-r.png" crc="4238587506" ref="week-menu"/>
+    <file name="preorder-crop-u2149.jpg" crc="3873215671" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
+    <file name="u2155.png" crc="4196411920" ref="week-menu"/>
+    <file name="u2155-r.png" crc="438011309" ref="week-menu"/>
+    <file name="u2152.png" crc="360254976" ref="week-menu"/>
+    <file name="u2152-r.png" crc="281372635" ref="week-menu"/>
+    <file name="preorder-crop-u2208.jpg" crc="3873215671" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
+    <file name="u2205.png" crc="361476901" ref="week-menu"/>
+    <file name="u2205-r.png" crc="428732331" ref="week-menu"/>
+    <file name="u2206.png" crc="3804042299" ref="week-menu"/>
+    <file name="u2206-r.png" crc="3977546254" ref="week-menu"/>
+    <file name="u2375-10.png" crc="4222269315" ref="home"/>
+    <file name="u2713.png" crc="4151998353" ref="home"/>
+    <file name="u2713-r.png" crc="4151998353" ref="home"/>
+    <file name="u2713-m.png" crc="4151998353" ref="home"/>
   </folder>
-  <file name="index.html" crc="291961205" seo="true" mt="1494333093452" redirect="true"/>
-  <file name="home.html" crc="4021107177" seo="true" mt="1494332986076" redirect="true"/>
-  <file name="week-menu.html" crc="4154585545" seo="true" mt="1494024568283" redirect="true"/>
+  <file name="index.html" crc="359275461" seo="true" mt="1494393385336" redirect="true"/>
+  <file name="home.html" crc="506602185" seo="true" mt="1494393285597" redirect="true"/>
+  <file name="week-menu.html" crc="3774295655" seo="true" mt="1494379012899" redirect="true"/>
 </manifest>

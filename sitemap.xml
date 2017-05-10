@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://AISKlunch.com/index.html</loc>
-    <lastmod>2017-05-09</lastmod>
+    <lastmod>2017-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201960x540.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://AISKlunch.com/home.html</loc>
-    <lastmod>2017-05-09</lastmod>
+    <lastmod>2017-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,7 +23,28 @@
   </url>
   <url>
     <loc>http://AISKlunch.com/week-menu.html</loc>
-    <lastmod>2017-05-05</lastmod>
+    <lastmod>2017-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u1980.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u2024.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u2095.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u2149.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u2208.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AISKlunch.com/assets/0c44dacf1b038014a6f941131c5e8aa2.gif</loc>
+    <lastmod>2017-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
