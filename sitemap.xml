@@ -8,9 +8,6 @@
     <image:image>
       <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201960x540.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://AISKlunch.com/home.html</loc>
@@ -20,32 +17,95 @@
     <image:image>
       <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/spaguetti.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/calendar.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/time-passing.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://AISKlunch.com/week-menu.html</loc>
-    <lastmod>2017-05-09</lastmod>
+    <lastmod>2017-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://AISKlunch.com/images/preorder-crop-u1980.jpg</image:loc>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u1980.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://AISKlunch.com/images/preorder-crop-u2024.jpg</image:loc>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u2024.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://AISKlunch.com/images/preorder-crop-u2095.jpg</image:loc>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u2095.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://AISKlunch.com/images/preorder-crop-u2149.jpg</image:loc>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u2149.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://AISKlunch.com/images/preorder-crop-u2208.jpg</image:loc>
+      <image:loc>http://AISKlunch.com/images/preorder-crop-u2208.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://AISKlunch.com/assets/0c44dacf1b038014a6f941131c5e8aa2.gif</loc>
-    <lastmod>2017-05-09</lastmod>
+    <loc>http://AISKlunch.com/pre-order--thursday-.html</loc>
+    <lastmod>2017-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AISKlunch.com/pre-order--friday-.html</loc>
+    <lastmod>2017-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AISKlunch.com/pre-order--wednesday-.html</loc>
+    <lastmod>2017-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AISKlunch.com/pre-order--tuesday-.html</loc>
+    <lastmod>2017-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AISKlunch.com/pre-order--monday-.html</loc>
+    <lastmod>2017-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://AISKlunch.com/learn-more.html</loc>
+    <lastmod>2017-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AISKlunch.com/page-offline.html</loc>
+    <lastmod>2017-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://AISKlunch.com/images/web%201920%20%E2%80%93%201.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

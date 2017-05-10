@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.page_offline /* version checker */
 {
-	color: #0000E2;
-	background-color: #52BBD0;
+	color: #0000F8;
+	background-color: #7BBDEB;
 }
 
 #page
@@ -18,7 +18,7 @@
 	margin-right: auto;
 }
 
-#u2739
+#u3487
 {
 	z-index: 13;
 	width: 157px;
@@ -35,7 +35,7 @@
 	left: -254px;
 }
 
-#u456
+#u3491
 {
 	z-index: 4;
 	height: 1080px;
@@ -57,13 +57,13 @@
 	visibility: visible;
 }
 
-#u456-bw
+#u3491-bw
 {
 	z-index: 4;
 	height: 1080px;
 }
 
-#pu196
+#pu3494
 {
 	z-index: 2;
 	margin-right: -10000px;
@@ -71,7 +71,7 @@
 	margin-left: 0%;
 }
 
-#u196
+#u3494
 {
 	z-index: 2;
 	background-color: transparent;
@@ -82,12 +82,12 @@
 	left: 0px;
 }
 
-#u196_img
+#u3494_img
 {
 	width: 100%;
 }
 
-#u481-4
+#u3493-4
 {
 	z-index: 5;
 	width: 722px;
@@ -106,7 +106,7 @@
 	left: -361px;
 }
 
-#u537-4
+#u3492-4
 {
 	z-index: 9;
 	width: 682px;
@@ -125,7 +125,7 @@
 	left: -341px;
 }
 
-#buttonu2784
+#buttonu3488
 {
 	z-index: 14;
 	width: 230px;
@@ -140,7 +140,7 @@
 	left: -115px;
 }
 
-#buttonu2784:hover
+#buttonu3488:hover
 {
 	background-color: #FFFFFF;
 	opacity: 0.5;
@@ -152,7 +152,7 @@
 	margin: 577px -10000px 0px 50%;
 }
 
-#buttonu2784.ButtonSelected
+#buttonu3488.ButtonSelected
 {
 	background-color: transparent;
 	opacity: 1;
@@ -171,7 +171,7 @@
 	background-color: transparent;
 }
 
-#u2786
+#u3490
 {
 	z-index: 18;
 	width: 50px;
@@ -187,7 +187,7 @@
 	left: -1px;
 }
 
-#u2785
+#u3489
 {
 	z-index: 16;
 	height: 17px;
@@ -204,10 +204,10 @@
 	margin-top: 15px;
 	margin-left: 50%;
 	left: -79px;
-	background: transparent url("../images/u2785.png?crc=146164676") no-repeat 0px 0px;
+	background: transparent url("../images/u3489.png?crc=4011067985") no-repeat 0px 0px;
 }
 
-#buttonu2784:hover #u2785
+#buttonu3488:hover #u3489
 {
 	-webkit-transition-duration: 1s;
 	-webkit-transition-delay: 0s;
@@ -217,7 +217,7 @@
 	transition-timing-function: ease-in-out;
 	margin-left: 50%;
 	left: -79px;
-	background: transparent url("../images/u2785-r.png?crc=3762774376") no-repeat 0px 0px;
+	background: transparent url("../images/u3489-r.png?crc=224779322") no-repeat 0px 0px;
 }
 
 #muse_css_mq,.html
