@@ -1,7 +1,7 @@
 .version.home /* version checker */
 {
-	color: #000012;
-	background-color: #E2DB71;
+	color: #0000ED;
+	background-color: #EDF943;
 }
 
 #page
@@ -90,8 +90,8 @@
 	border-width: 0px;
 	background-color: transparent;
 	font-size: 15px;
-	line-height: 18px;
 	color: #F15A24;
+	line-height: 18px;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -408,10 +408,10 @@
 	background-image: url("../images/blank.gif?crc=4208392903");
 	background-color: transparent;
 	font-size: 8px;
-	line-height: 10px;
+	letter-spacing: 1px;
 	color: #7F7F7F;
 	text-align: center;
-	letter-spacing: 1px;
+	line-height: 10px;
 	font-family: ingra, sans-serif;
 	font-weight: 200;
 	margin-top: 3px;
@@ -549,10 +549,10 @@
 	background-image: url("../images/blank.gif?crc=4208392903");
 	background-color: transparent;
 	font-size: 8px;
-	line-height: 10px;
+	letter-spacing: 1px;
 	color: #7F7F7F;
 	text-align: center;
-	letter-spacing: 1px;
+	line-height: 10px;
 	font-family: ingra, sans-serif;
 	font-weight: 200;
 	margin-top: 3px;
@@ -690,10 +690,10 @@
 	background-image: url("../images/blank.gif?crc=4208392903");
 	background-color: transparent;
 	font-size: 8px;
-	line-height: 10px;
+	letter-spacing: 1px;
 	color: #7F7F7F;
 	text-align: center;
-	letter-spacing: 1px;
+	line-height: 10px;
 	font-family: ingra, sans-serif;
 	font-weight: 200;
 	margin-top: 3px;
@@ -826,8 +826,8 @@
 	border-width: 0px;
 	background-color: transparent;
 	font-size: 15px;
-	line-height: 18px;
 	color: #F15A24;
+	line-height: 18px;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1208,8 +1208,8 @@
 	border-width: 0px;
 	background-color: transparent;
 	font-size: 15px;
-	line-height: 18px;
 	color: #F15A24;
+	line-height: 18px;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1481,8 +1481,8 @@
 	border-width: 0px;
 	background-color: transparent;
 	font-size: 15px;
-	line-height: 18px;
 	color: #F15A24;
+	line-height: 18px;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
 	position: relative;

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494450049858">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494450858405">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="3879196808" ref="tablet>index"/>
@@ -14,7 +14,7 @@
   <folder name="css">
     <file name="site_global.css" crc="175707596"/>
     <file name="index.css" crc="3797072848" ref="index"/>
-    <file name="home.css" crc="316857201" ref="home"/>
+    <file name="home.css" crc="3991796035" ref="home"/>
     <file name="week-menu.css" crc="281087924" ref="week-menu"/>
     <file name="pre-order--tuesday-.css" crc="4258608015" ref="pre-order--tuesday-"/>
     <file name="page-offline.css" crc="4168859115" ref="page-offline"/>
@@ -38,14 +38,14 @@
   </folder>
   <folder name="images">
     <file name="web 1920 – 1.jpg" crc="426960172" seo="true" ref="index:home:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline">
-      <caption webpage="home" alt=""/>
-      <caption webpage="page-offline" alt=""/>
-      <caption webpage="pre-order--friday-" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="pre-order--tuesday-" alt=""/>
-      <caption webpage="pre-order--monday-" alt=""/>
-      <caption webpage="pre-order--wednesday-" alt=""/>
       <caption webpage="pre-order--thursday-" alt=""/>
+      <caption webpage="pre-order--friday-" alt=""/>
+      <caption webpage="pre-order--monday-" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="pre-order--tuesday-" alt=""/>
+      <caption webpage="pre-order--wednesday-" alt=""/>
+      <caption webpage="page-offline" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="home:index:week-menu:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline"/>
     <file name="u1933.png" crc="4158260876" ref="week-menu"/>
@@ -124,8 +124,8 @@
     <file name="u3489-r.png" crc="224779322" ref="page-offline"/>
   </folder>
   <file name="index.html" crc="4209105123" seo="true" mt="1494446749710" redirect="true"/>
-  <file name="home.html" crc="391953513" seo="true" mt="1494446749710" redirect="true"/>
-  <file name="week-menu.html" crc="469668994" seo="true" mt="1494448951075" redirect="true"/>
+  <file name="home.html" crc="443383418" seo="true" mt="1494450649947" redirect="true"/>
+  <file name="week-menu.html" crc="116249982" seo="true" mt="1494450672510" redirect="true"/>
   <file name="pre-order--thursday-.html" crc="41076072" seo="true" mt="1494446749710" redirect="true"/>
   <file name="pre-order--friday-.html" crc="3780654117" seo="true" mt="1494449379950" redirect="true"/>
   <file name="pre-order--wednesday-.html" crc="342616799" seo="true" mt="1494446749710" redirect="true"/>
