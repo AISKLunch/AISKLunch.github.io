@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E7;
-	background-color: #37D888;
+	color: #00001F;
+	background-color: #BDA15F;
 }
 
 #page
@@ -32,4 +32,8 @@ body
 	position: relative;
 	min-width: 500px;
 }
+
+
+
+
 

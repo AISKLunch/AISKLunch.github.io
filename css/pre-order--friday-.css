@@ -1,18 +1,17 @@
 .version.pre_order__friday_ /* version checker */
 {
-	color: #0000E4;
-	background-color: #1A357F;
+	color: #000016;
+	background-color: #3404C6;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 1078px;
+	min-height: 540px;
 	background-image: none;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #FFFFFF;
-	background-color: transparent;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #FFFFFF;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -22,20 +21,13 @@
 	margin-right: auto;
 }
 
-.Style
-{
-	border-width: 1px;
-	border-color: #FFFFFF;
-	background-color: transparent;
-}
-
 #untitled
 {
 	position: relative;
 	margin-right: -10000px;
 	width: 22px;
-	margin-top: -997px;
-	left: -481px;
+	margin-top: -996px;
+	left: -480px;
 }
 
 #u3298
@@ -51,8 +43,8 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 455px;
-	left: -199px;
+	margin-top: 456px;
+	left: -198px;
 }
 
 #u3293
@@ -80,8 +72,6 @@
 #u3293-bw
 {
 	z-index: 4;
-	margin-bottom: -1px;
-	margin-top: -1px;
 	height: 1080px;
 }
 
@@ -90,9 +80,10 @@
 	z-index: 2;
 	background-color: transparent;
 	position: relative;
-	width: 100.11%;
+	margin-right: -10000px;
+	width: 100%;
+	margin-left: 0%;
 	left: 0px;
-	margin: -1px -10000px -1px -0.05213764337852478%;
 }
 
 #u3300_img
@@ -109,9 +100,9 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 19px;
-	width: 98.02%;
-	left: 1%;
+	margin-top: 20px;
+	width: 97.92%;
+	left: 1.05%;
 }
 
 #buttonu3295
@@ -120,11 +111,12 @@
 	width: 230px;
 	border-style: solid;
 	border-width: 1px;
-	border-color: #FFFFFF;
+	border-color: #000000;
+	background-color: #FFFFFF;
 	padding-bottom: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1008px;
+	margin-top: 1009px;
 	margin-left: 50%;
 	left: -115px;
 }
@@ -138,19 +130,19 @@
 	width: 230px;
 	min-height: 0px;
 	left: -115px;
-	margin: 1008px -10000px 0px 50%;
+	margin: 1009px -10000px 0px 50%;
 }
 
 #buttonu3295.ButtonSelected
 {
-	background-color: transparent;
+	background-color: #FFFFFF;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 	width: 230px;
 	min-height: 0px;
 	left: -115px;
-	margin: 1008px -10000px 0px 50%;
+	margin: 1009px -10000px 0px 50%;
 }
 
 #u3296
@@ -210,6 +202,6 @@
 body
 {
 	position: relative;
-	min-width: 1920px;
+	min-width: 960px;
 }
 

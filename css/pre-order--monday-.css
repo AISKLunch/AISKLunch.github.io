@@ -1,18 +1,17 @@
 .version.pre_order__monday_ /* version checker */
 {
-	color: #0000E0;
-	background-color: #FE51C1;
+	color: #000005;
+	background-color: #8FB820;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 1078px;
+	min-height: 540px;
 	background-image: none;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #FFFFFF;
-	background-color: transparent;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #FFFFFF;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -22,20 +21,13 @@
 	margin-right: auto;
 }
 
-.Style
-{
-	border-width: 1px;
-	border-color: #FFFFFF;
-	background-color: transparent;
-}
-
 #untitled
 {
 	position: relative;
 	margin-right: -10000px;
 	width: 22px;
-	margin-top: -997px;
-	left: -481px;
+	margin-top: -996px;
+	left: -480px;
 }
 
 #u3439
@@ -51,15 +43,16 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 455px;
-	left: -199px;
+	margin-top: 456px;
+	left: -198px;
 }
 
 #pu3432
 {
 	z-index: 2;
-	width: 100.11%;
-	margin: -1px -10000px -1px -0.05213764337852478%;
+	margin-right: -10000px;
+	width: 100%;
+	margin-left: 0%;
 }
 
 #u3432
@@ -70,7 +63,7 @@
 	margin-right: -10000px;
 	width: 100%;
 	margin-left: 0%;
-	left: 1.0524914273446484e-13px;
+	left: 0px;
 }
 
 #u3432_img
@@ -115,9 +108,9 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 19px;
-	width: 98.02%;
-	left: 1%;
+	margin-top: 20px;
+	width: 97.92%;
+	left: 1.05%;
 }
 
 #buttonu3435
@@ -126,11 +119,12 @@
 	width: 230px;
 	border-style: solid;
 	border-width: 1px;
-	border-color: #FFFFFF;
+	border-color: #000000;
+	background-color: #FFFFFF;
 	padding-bottom: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1008px;
+	margin-top: 1009px;
 	margin-left: 50%;
 	left: -115px;
 }
@@ -144,19 +138,19 @@
 	width: 230px;
 	min-height: 0px;
 	left: -115px;
-	margin: 1008px -10000px 0px 50%;
+	margin: 1009px -10000px 0px 50%;
 }
 
 #buttonu3435.ButtonSelected
 {
-	background-color: transparent;
+	background-color: #FFFFFF;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
 	width: 230px;
 	min-height: 0px;
 	left: -115px;
-	margin: 1008px -10000px 0px 50%;
+	margin: 1009px -10000px 0px 50%;
 }
 
 #u3437
@@ -216,6 +210,6 @@
 body
 {
 	position: relative;
-	min-width: 1920px;
+	min-width: 960px;
 }
 

@@ -1,13 +1,13 @@
 .version.page_offline /* version checker */
 {
-	color: #0000F8;
-	background-color: #7BBDEB;
+	color: #0000EB;
+	background-color: #71363A;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 1080px;
+	min-height: 540px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -95,8 +95,8 @@
 	background-color: transparent;
 	line-height: 86px;
 	color: #FFFFFF;
-	font-size: 72px;
 	text-align: center;
+	font-size: 72px;
 	font-family: raleway, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -114,8 +114,8 @@
 	background-color: transparent;
 	line-height: 36px;
 	color: #FFFFFF;
-	font-size: 30px;
 	text-align: center;
+	font-size: 30px;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -131,7 +131,8 @@
 	width: 230px;
 	border-style: solid;
 	border-width: 1px;
-	border-color: #FFFFFF;
+	border-color: #000000;
+	background-color: #FFFFFF;
 	padding-bottom: 1px;
 	position: relative;
 	margin-right: -10000px;
@@ -154,7 +155,7 @@
 
 #buttonu3488.ButtonSelected
 {
-	background-color: transparent;
+	background-color: #FFFFFF;
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
@@ -162,13 +163,6 @@
 	min-height: 0px;
 	left: -115px;
 	margin: 577px -10000px 0px 50%;
-}
-
-.Style
-{
-	border-width: 1px;
-	border-color: #FFFFFF;
-	background-color: transparent;
 }
 
 #u3490
@@ -228,6 +222,6 @@
 body
 {
 	position: relative;
-	min-width: 1920px;
+	min-width: 960px;
 }
 

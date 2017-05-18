@@ -1,0 +1,214 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 1572px;
+		min-height: 800px;
+	}
+
+	#pu6571
+	{
+		z-index: 7;
+		width: 0.01px;
+		margin-right: -10000px;
+		margin-top: -8px;
+		margin-left: -570px;
+	}
+
+	#u6570
+	{
+		margin-top: 16px;
+	}
+
+	#pu6579
+	{
+		z-index: 2;
+		width: 0.01px;
+		margin-right: -10000px;
+		margin-left: -174px;
+	}
+
+	#u6579
+	{
+		width: 1920px;
+		height: 1080px;
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u6635
+	{
+		z-index: 3;
+		width: 503px;
+		height: 856px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 70px;
+		left: 174px;
+	}
+
+	#u8587
+	{
+		z-index: 4;
+		width: 503px;
+		height: 856px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 70px;
+		left: 708px;
+	}
+
+	#u8605
+	{
+		width: 503px;
+		height: 856px;
+		margin-top: 70px;
+		left: 1242px;
+	}
+
+	#buttonu6608
+	{
+		width: 230px;
+		padding-bottom: 16px;
+		margin-top: 846px;
+		left: 845px;
+	}
+
+	#buttonu6608:hover
+	{
+		margin-left: 0px;
+		margin-top: 846px;
+		width: 230px;
+	}
+
+	#u6609-4
+	{
+		width: 173px;
+		min-height: 17px;
+		margin-top: 16px;
+		left: 28px;
+	}
+
+	#buttonu6608:hover #u6609-4
+	{
+		margin-left: 0px;
+		margin-top: 16px;
+		min-height: 17px;
+		width: 173px;
+	}
+
+	#buttonu8614
+	{
+		width: 230px;
+		padding-bottom: 16px;
+		margin-top: 846px;
+		left: 1379px;
+	}
+
+	#buttonu8614:hover
+	{
+		margin-left: 0px;
+		margin-bottom: 0px;
+		margin-top: 846px;
+		width: 230px;
+	}
+
+	#u8615-4
+	{
+		width: 173px;
+		min-height: 17px;
+		margin-top: 16px;
+		left: 28px;
+	}
+
+	#buttonu6608.ButtonSelected #u6609-4,#buttonu8614:hover #u8615-4
+	{
+		margin-left: 0px;
+		margin-top: 16px;
+		min-height: 17px;
+		width: 173px;
+	}
+
+	#buttonu8614.ButtonSelected #u8615-4
+	{
+		margin-left: 0px;
+		margin-top: 16px;
+		min-height: 17px;
+		width: 173px;
+	}
+
+	#u8630-4
+	{
+		margin-top: 99px;
+		left: 750px;
+	}
+
+	#u8644-4
+	{
+		margin-top: 99px;
+		left: 1283px;
+	}
+
+	#u8680-4
+	{
+		margin-top: 99px;
+		left: 216px;
+	}
+
+	#u9035
+	{
+		width: 358px;
+		margin-top: 169px;
+		left: 248px;
+	}
+
+	#u8861
+	{
+		margin-left: -72px;
+	}
+
+	#u9077
+	{
+		width: 358px;
+		margin-top: 169px;
+		left: 782px;
+	}
+
+	#u9152
+	{
+		width: 358px;
+		margin-top: 169px;
+		left: 1315px;
+	}
+
+	#u8970,#u9080,#u9155
+	{
+		width: 356px;
+		padding-bottom: 73px;
+	}
+
+	#u8856,#u9078,#u9153
+	{
+		width: 210px;
+		margin-top: 73px;
+		left: 73px;
+	}
+
+	.html
+	{
+		background-image: url("../images/untitled-1-01.png?crc=4106093832");
+	}
+
+	body
+	{
+		min-width: 1572px;
+	}
+

@@ -1,13 +1,13 @@
 .version.week_menu /* version checker */
 {
-	color: #000010;
-	background-color: #C10FB4;
+	color: #000002;
+	background-color: #0B1CE0;
 }
 
 #page
 {
 	z-index: 1;
-	min-height: 1080px;
+	min-height: 540px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -678,6 +678,6 @@
 body
 {
 	position: relative;
-	min-width: 1920px;
+	min-width: 960px;
 }
 

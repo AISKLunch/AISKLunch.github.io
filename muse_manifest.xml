@@ -1,114 +1,95 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1494452181301">
-  <folder name="tablet">
-    <folder name="css">
-      <file name="index.css" crc="3879196808" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="387996525" seo="true" mt="1494437166168" redirect="false"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="492016955" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="305489750" seo="true" mt="1494437166175" redirect="false"/>
-  </folder>
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="false" exportTarget="other" domain="AISKlunch.com" resolutions="1x" timestamp="1495068379766">
   <folder name="css">
     <file name="site_global.css" crc="175707596"/>
-    <file name="index.css" crc="3797072848" ref="index"/>
-    <file name="home.css" crc="3991796035" ref="home"/>
-    <file name="week-menu.css" crc="281087924" ref="week-menu"/>
-    <file name="pre-order--tuesday-.css" crc="228362729" ref="pre-order--tuesday-"/>
-    <file name="page-offline.css" crc="4168859115" ref="page-offline"/>
-    <file name="pre-order--monday-.css" crc="3774763457" ref="pre-order--monday-"/>
-    <file name="pre-order--friday-.css" crc="3826922879" ref="pre-order--friday-"/>
-    <file name="learn-more.css" crc="4036848218" ref="learn-more"/>
-    <file name="pre-order--wednesday-.css" crc="3763217559" ref="pre-order--wednesday-"/>
-    <file name="pre-order--thursday-.css" crc="3988811665" ref="pre-order--thursday-"/>
+    <file name="pre-order--friday-.css" crc="372507846" ref="pre-order--friday-"/>
+    <file name="pre-order--tuesday-.css" crc="73725422" ref="pre-order--tuesday-"/>
+    <file name="pre-order--wednesday-.css" crc="436870604" ref="pre-order--wednesday-"/>
+    <file name="index.css" crc="3894329102" ref="index"/>
+    <file name="nomq_index.css" crc="290907712" ref="index"/>
+    <file name="pre-order--thursday-.css" crc="526158557" ref="pre-order--thursday-"/>
+    <file name="continue-page.css" crc="4131337700" ref="continue-page"/>
+    <file name="nomq_continue-page.css" crc="372899354" ref="continue-page"/>
+    <file name="week-menu.css" crc="34282720" ref="week-menu"/>
+    <file name="page-offline.css" crc="3950065210" ref="page-offline"/>
+    <file name="aisk-lunch.css" crc="437267083" ref="aisk-lunch"/>
+    <file name="nomq_aisk-lunch.css" crc="392421506" ref="aisk-lunch"/>
+    <file name="pre-order--monday-.css" crc="93304864" ref="pre-order--monday-"/>
+    <file name="new-customer.css" crc="4095676575" ref="new-customer"/>
+    <file name="nomq_new-customer.css" crc="346081395" ref="new-customer"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:week-menu:phone>index:tablet>index:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:learn-more:page-offline"/>
-    <file name="museutils.js" crc="4232573551" ref="index:home:week-menu:phone>index:tablet>index:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:learn-more:page-offline"/>
-    <file name="whatinput.js" crc="86476730" ref="index:home:week-menu:phone>index:tablet>index:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:learn-more:page-offline"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:home:week-menu:phone>index:tablet>index:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:learn-more:page-offline"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:home:phone>index:tablet>index:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline"/>
-    <file name="require.js" crc="4234670167" ref="index:home:week-menu:phone>index:tablet>index:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:learn-more:page-offline"/>
-    <file name="webpro.js" crc="3770351119" ref="home"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="home"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="home"/>
-    <file name="touchswipe.js" crc="3912873526" ref="home"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:week-menu:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline:continue-page:new-customer:aisk-lunch"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:tablet>index:index:week-menu:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline:continue-page:new-customer:aisk-lunch"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:week-menu:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline:continue-page:new-customer:aisk-lunch"/>
+    <file name="museconfig.js" crc="3999795713" ref="phone>index:tablet>index:index:week-menu:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline:continue-page:new-customer:aisk-lunch"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:tablet>index:index:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline:continue-page:new-customer:aisk-lunch"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:tablet>index:index:week-menu:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline:continue-page:new-customer:aisk-lunch"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:continue-page:new-customer:aisk-lunch"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:continue-page:new-customer:aisk-lunch"/>
   </folder>
   <folder name="images">
-    <file name="web 1920 – 1.jpg" crc="426960172" seo="true" ref="index:home:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline">
-      <caption webpage="home" alt=""/>
-      <caption webpage="pre-order--wednesday-" alt=""/>
-      <caption webpage="pre-order--friday-" alt=""/>
+    <file name="me.png" crc="52571688" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="pre-order--tuesday-" alt=""/>
-      <caption webpage="pre-order--thursday-" alt=""/>
-      <caption webpage="pre-order--monday-" alt=""/>
-      <caption webpage="page-offline" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="home:index:week-menu:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline"/>
+    <file name="untitled-1-01.png" crc="4106093832" ref="index:continue-page:new-customer:aisk-lunch">
+      <caption webpage="index" alt=""/>
+      <caption webpage="continue-page" alt=""/>
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+    </file>
+    <file name="untitled-1-012560x1439.png" crc="4161219856" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:week-menu:pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline:continue-page:new-customer:aisk-lunch"/>
+    <file name="preorder-crop-u1980.png" crc="4064525826" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
     <file name="u1933.png" crc="4158260876" ref="week-menu"/>
     <file name="u1933-r.png" crc="4263348052" ref="week-menu"/>
     <file name="u1918.png" crc="3914741470" ref="week-menu"/>
     <file name="u1918-r.png" crc="86347465" ref="week-menu"/>
+    <file name="preorder-crop-u2024.png" crc="4064525826" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
     <file name="u2029.png" crc="409461217" ref="week-menu"/>
     <file name="u2029-r.png" crc="493324316" ref="week-menu"/>
     <file name="u2030.png" crc="520831892" ref="week-menu"/>
     <file name="u2030-r.png" crc="3858061088" ref="week-menu"/>
+    <file name="preorder-crop-u2095.png" crc="4064525826" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
     <file name="u2100.png" crc="483101008" ref="week-menu"/>
     <file name="u2100-r.png" crc="3925952285" ref="week-menu"/>
     <file name="u2099.png" crc="444078732" ref="week-menu"/>
     <file name="u2099-r.png" crc="4238587506" ref="week-menu"/>
+    <file name="preorder-crop-u2149.png" crc="4064525826" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
     <file name="u2155.png" crc="4196411920" ref="week-menu"/>
     <file name="u2155-r.png" crc="438011309" ref="week-menu"/>
     <file name="u2152.png" crc="360254976" ref="week-menu"/>
     <file name="u2152-r.png" crc="281372635" ref="week-menu"/>
+    <file name="preorder-crop-u2208.png" crc="4064525826" seo="true" ref="week-menu">
+      <caption webpage="week-menu" alt=""/>
+    </file>
     <file name="u2205.png" crc="361476901" ref="week-menu"/>
     <file name="u2205-r.png" crc="428732331" ref="week-menu"/>
     <file name="u2206.png" crc="3804042299" ref="week-menu"/>
     <file name="u2206-r.png" crc="3977546254" ref="week-menu"/>
-    <file name="u2375-10.png" crc="3989221151" ref="home"/>
-    <file name="u2785.png" crc="146164676" ref="index"/>
-    <file name="u2785-r.png" crc="3762774376" ref="index"/>
-    <file name="u3040.png" crc="35103626" ref="home"/>
-    <file name="u3040-r.png" crc="4063614133" ref="home"/>
-    <file name="u3057.png" crc="35103626" ref="home"/>
-    <file name="u3057-r.png" crc="4063614133" ref="home"/>
-    <file name="u3071.png" crc="35103626" ref="home"/>
-    <file name="u3071-r.png" crc="4063614133" ref="home"/>
-    <file name="spaguetti.svg" crc="4284836400" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="spaguetti_poster_.png" crc="299164588" ref="home"/>
-    <file name="u3218.png" crc="4288282452" ref="home"/>
-    <file name="u3218-r.png" crc="178223689" ref="home"/>
-    <file name="u3247.png" crc="310665608" ref="home"/>
-    <file name="u3247-r.png" crc="4060583998" ref="home"/>
-    <file name="u3268.png" crc="4114459012" ref="home"/>
-    <file name="u3268-r.png" crc="401699276" ref="home"/>
-    <file name="calendar.svg" crc="18327532" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="calendar_poster_.png" crc="4026184756" ref="home"/>
-    <file name="time-passing.svg" crc="4268714196" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="time-passing_poster_.png" crc="8224497" ref="home"/>
-    <file name="preorder-crop-u1980.png" crc="4064525826" seo="true" ref="week-menu">
-      <caption webpage="week-menu" alt=""/>
-    </file>
-    <file name="preorder-crop-u2024.png" crc="4064525826" seo="true" ref="week-menu">
-      <caption webpage="week-menu" alt=""/>
-    </file>
-    <file name="preorder-crop-u2095.png" crc="4064525826" seo="true" ref="week-menu">
-      <caption webpage="week-menu" alt=""/>
-    </file>
-    <file name="preorder-crop-u2149.png" crc="4064525826" seo="true" ref="week-menu">
-      <caption webpage="week-menu" alt=""/>
-    </file>
-    <file name="preorder-crop-u2208.png" crc="4064525826" seo="true" ref="week-menu">
-      <caption webpage="week-menu" alt=""/>
+    <file name="web 1920 – 1.jpg" crc="426960172" seo="true" ref="pre-order--thursday-:pre-order--friday-:pre-order--wednesday-:pre-order--tuesday-:pre-order--monday-:page-offline">
+      <caption webpage="pre-order--tuesday-" alt=""/>
+      <caption webpage="pre-order--thursday-" alt=""/>
+      <caption webpage="pre-order--wednesday-" alt=""/>
+      <caption webpage="pre-order--monday-" alt=""/>
+      <caption webpage="page-offline" alt=""/>
+      <caption webpage="pre-order--friday-" alt=""/>
     </file>
     <file name="u3092.png" crc="4125716325" ref="pre-order--thursday-"/>
     <file name="u3092-r.png" crc="3998849861" ref="pre-order--thursday-"/>
@@ -122,15 +103,91 @@
     <file name="u3436-r.png" crc="3998849861" ref="pre-order--monday-"/>
     <file name="u3489.png" crc="4011067985" ref="page-offline"/>
     <file name="u3489-r.png" crc="224779322" ref="page-offline"/>
+    <file name="man.svg" crc="3994890149" seo="true" ref="continue-page">
+      <caption webpage="continue-page" alt=""/>
+      <caption webpage="continue-page" alt=""/>
+      <caption webpage="continue-page" alt=""/>
+    </file>
+    <file name="man_poster_.png" crc="143252026" ref="continue-page"/>
+    <file name="return.svg" crc="192722811" seo="true" ref="continue-page">
+      <caption webpage="continue-page" alt=""/>
+      <caption webpage="continue-page" alt=""/>
+      <caption webpage="continue-page" alt=""/>
+    </file>
+    <file name="return_poster_.png" crc="4121402905" ref="continue-page"/>
+    <file name="untitled-1-012048x1152.png" crc="525019495" ref="continue-page">
+      <caption webpage="continue-page" alt=""/>
+      <caption webpage="continue-page" alt=""/>
+    </file>
+    <file name="lemonade.svg" crc="357925444" seo="true" ref="new-customer">
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+    </file>
+    <file name="lemonade_poster_.png" crc="4127629819" ref="new-customer"/>
+    <file name="fast-food.svg" crc="499572071" seo="true" ref="new-customer">
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+    </file>
+    <file name="fast-food_poster_.png" crc="92715937" ref="new-customer"/>
+    <file name="coffee-cup.svg" crc="4121417192" seo="true" ref="new-customer">
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+    </file>
+    <file name="coffee-cup_poster_.png" crc="4001538980" ref="new-customer"/>
+    <file name="calendar.svg" crc="4010900760" seo="true" ref="new-customer:aisk-lunch">
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+    </file>
+    <file name="calendar_poster_.png" crc="4279558471" ref="new-customer"/>
+    <file name="stopwatch.svg" crc="263900752" seo="true" ref="new-customer:aisk-lunch">
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+    </file>
+    <file name="stopwatch_poster_.png" crc="3779323217" ref="new-customer"/>
+    <file name="chicken.svg" crc="4028259280" seo="true" ref="new-customer:aisk-lunch">
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="aisk-lunch" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+      <caption webpage="new-customer" alt=""/>
+    </file>
+    <file name="chicken_poster_.png" crc="330857972" ref="new-customer"/>
   </folder>
-  <file name="index.html" crc="4209105123" seo="true" mt="1494446749710" redirect="true"/>
-  <file name="home.html" crc="443383418" seo="true" mt="1494450649947" redirect="true"/>
-  <file name="week-menu.html" crc="116249982" seo="true" mt="1494450672510" redirect="true"/>
-  <file name="pre-order--thursday-.html" crc="3985052605" seo="true" mt="1494452084958" redirect="true"/>
-  <file name="pre-order--friday-.html" crc="353646175" seo="true" mt="1494452103752" redirect="true"/>
-  <file name="pre-order--wednesday-.html" crc="360181999" seo="true" mt="1494452128333" redirect="true"/>
-  <file name="pre-order--tuesday-.html" crc="4089827582" seo="true" mt="1494452144225" redirect="true"/>
-  <file name="pre-order--monday-.html" crc="420513644" seo="true" mt="1494452161012" redirect="true"/>
-  <file name="learn-more.html" crc="4108736948" seo="true" mt="1494446749710" redirect="false"/>
-  <file name="page-offline.html" crc="3897756301" seo="true" mt="1494448915640" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="532521311" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="321525473" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="407367217" seo="true" mt="1494366067830" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="404568388" ref="phone>index"/>
+      <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4043084596" seo="true" mt="1494366044091" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3829358184" seo="true" mt="1495067792366" redirect="true"/>
+  <file name="week-menu.html" crc="3926575736" seo="true" mt="1495041233681" redirect="true"/>
+  <file name="pre-order--thursday-.html" crc="109743933" seo="true" mt="1495064430062" redirect="true"/>
+  <file name="pre-order--friday-.html" crc="334539252" seo="true" mt="1495064430054" redirect="true"/>
+  <file name="pre-order--wednesday-.html" crc="3995565103" seo="true" mt="1495064430045" redirect="true"/>
+  <file name="pre-order--tuesday-.html" crc="192587655" seo="true" mt="1495064430049" redirect="true"/>
+  <file name="pre-order--monday-.html" crc="409702082" seo="true" mt="1495064430052" redirect="true"/>
+  <file name="page-offline.html" crc="444026129" seo="true" mt="1495064430060" redirect="true"/>
+  <file name="continue-page.html" crc="3820872694" seo="true" mt="1495068340553" redirect="true"/>
+  <file name="new-customer.html" crc="40156645" seo="true" mt="1495067615323" redirect="true"/>
+  <file name="aisk-lunch.html" crc="419648988" seo="true" mt="1495068359634" redirect="true"/>
 </manifest>
